@@ -3,5 +3,6 @@ public class main {
         System.out.println("test~");
 
         //dev create
+        //feature : 로컬 생성하여 리모트로 전달한다.
     }
 }
